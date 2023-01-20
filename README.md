@@ -35,4 +35,4 @@ vvp
 
 ![image](https://user-images.githubusercontent.com/88512549/213800342-c9e56de3-774e-47be-9234-979cc2db426f.png)
 --------------------------------------
-make sure to ```vagrant halt``` when finished using the virtual machine
+### make sure to ```vagrant halt``` when finished using the virtual machine
