@@ -14,11 +14,15 @@ https://developer.hashicorp.com/vagrant/downloads
 Vagrant Cheat Sheet
 https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
 
+
+
+## Step. 3 
 ``` 
 vagrant up 
 ```
-
-## Step. 3 now, use our text file with ALL the commands!!
+```
+use our text file with ALL the commands! 
+```
 to be completed soon...
 
 
