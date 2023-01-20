@@ -31,7 +31,8 @@ vvp
 ```
 
 
-### once successfully installed iverilog this should print:
+### once successfully installed iverilog  this should print:
+(verilog is a langugage)
 
 ![image](https://user-images.githubusercontent.com/88512549/213801450-ac907747-8503-498d-9515-65f27b400782.png)
 
