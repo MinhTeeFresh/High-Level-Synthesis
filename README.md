@@ -33,6 +33,8 @@ vvp
 
 ### once successfully installed iverilog this should print:
 
-![image](https://user-images.githubusercontent.com/88512549/213801217-4f129ddf-f2d3-4ec0-ac3e-a25b97474d6c.png)
+![image](https://user-images.githubusercontent.com/88512549/213801450-ac907747-8503-498d-9515-65f27b400782.png)
+
+
 --------------------------------------
 ### make sure to ```vagrant halt``` when finished using the virtual machine
