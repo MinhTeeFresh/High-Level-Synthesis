@@ -20,3 +20,9 @@ vagrant ssh
 ```
 
 ## Step. 3 now, use our text file with ALL the commands!!
+to be completed soon...
+
+
+
+--------------------------------------
+make sure to ```vagrant halt``` when finished using the virtual machine
