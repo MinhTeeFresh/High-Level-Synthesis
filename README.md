@@ -16,19 +16,23 @@ https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
 
 
 
-## Step. 3 
-``` 
-vagrant up 
+## Step. 3 Clone this Repository
 ```
-```
-use our text file "Vagrantfile"
-with all the necessary commands
+//open command terminal
+cd into repo directory
+vagrant up //uses our text file "Vagrantfile" with all the necessary commands
 ```
 
 
-once successfully installed iverilog this should print:
-![image](https://user-images.githubusercontent.com/88512549/213799922-9de1dad3-759e-46df-aade-74a7c9df0d56.png)
+```
+vagrant ssh
+iverilog
+vvp
+```
 
 
+### once successfully installed iverilog this should print:
+
+![image](https://user-images.githubusercontent.com/88512549/213800342-c9e56de3-774e-47be-9234-979cc2db426f.png)
 --------------------------------------
 make sure to ```vagrant halt``` when finished using the virtual machine
