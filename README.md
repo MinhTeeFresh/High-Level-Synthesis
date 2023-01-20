@@ -16,7 +16,6 @@ https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
 
 ``` 
 vagrant up 
-vagrant ssh
 ```
 
 ## Step. 3 now, use our text file with ALL the commands!!
