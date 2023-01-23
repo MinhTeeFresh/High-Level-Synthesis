@@ -79,5 +79,6 @@ Vagrant.configure("2") do |config|
      ./configure
      make
      sudo make install
+     sudo chmod a+w .
    SHELL
 end
