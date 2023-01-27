@@ -79,6 +79,8 @@ Vagrant.configure("2") do |config|
      ./configure
      make
      sudo make install
-     sudo chmod a+w .
+     sudo apt-get update
+     sudo apt install -y python3-pip
+     python3 -m pip install sootty
    SHELL
 end
