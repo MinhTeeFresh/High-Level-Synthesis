@@ -1,4 +1,6 @@
 # High-Level-Synthesis - Getting Started
+make sure to ```vagrant halt``` when finished using the virtual machine
+
 
 
 ## Step. 1 Install Oracle VM VirtualBox
@@ -39,3 +41,13 @@ vvp
 
 --------------------------------------
 ### make sure to ```vagrant halt``` when finished using the virtual machine
+
+
+
+\\
+## Sootty (in VagrantFile)
+```sudo apt-get update```
+```sudo apt install python3-pip```
+```python3 -m pip install scooty```
+
+
