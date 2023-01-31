@@ -40,11 +40,7 @@ vvp
 
 
 --------------------------------------
-### make sure to ```vagrant halt``` when finished using the virtual machine
 
-
-
-\\
 ## Sootty (in VagrantFile)
 ```sudo apt-get update```
 ```sudo apt install python3-pip```
