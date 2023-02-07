@@ -41,9 +41,8 @@ vvp
 
 --------------------------------------
 
-## Sootty (in VagrantFile)
-```sudo apt-get update```
-```sudo apt install python3-pip```
-```python3 -m pip install scooty```
+~Sootty (in VagrantFile)~   
 
 
+### DWFV - simple digital waveform viewer with vi-like key bindings
+https://github.com/psurply/dwfv
