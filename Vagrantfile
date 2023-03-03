@@ -82,5 +82,7 @@ Vagrant.configure("2") do |config|
      sudo apt-get update
      sudo apt install -y python3-pip
      python3 -m pip install sootty
+     sudo apt-get install cargo
+     cargo install viu
    SHELL
 end
