@@ -1,5 +1,5 @@
 # High-Level-Synthesis - Getting Started
-*make sure to ```vagrant halt``` when finished using the virtual machine*
+*Remember to run ```vagrant halt``` once you're done using the virtual machine.*
 
 
 
